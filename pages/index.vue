@@ -1,7 +1,7 @@
 <template>
-  <Page>
+  <h1>
     This is a home page
-  </Page>
+  </h1>
 </template>
 
 <script lang="ts">

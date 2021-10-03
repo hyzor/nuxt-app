@@ -1,7 +1,7 @@
 <template>
-  <Page>
+  <h1>
     Here are my photos
-  </Page>
+  </h1>
 </template>
 
 <script lang="ts">

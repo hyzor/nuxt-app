@@ -1,7 +1,10 @@
 <template>
-  <Page>
-    Contact me
-  </Page>
+  <div>
+    <h1>
+      Contact me
+    </h1>
+    <ContactForm/>
+  </div>
 </template>
 
 <script lang="ts">

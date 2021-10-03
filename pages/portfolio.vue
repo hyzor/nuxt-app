@@ -1,6 +1,6 @@
 <template>
   <h1>
-    About me
+    Here is my portfolio
   </h1>
 </template>
 
