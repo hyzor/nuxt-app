@@ -1,0 +1,13 @@
+<template>
+  <el-container>
+    <el-header>
+        <AppBar/>
+    </el-header>
+    <el-main>
+      <slot></slot>
+    </el-main>
+    <el-footer>
+      2021
+    </el-footer>
+  </el-container>
+</template>
