@@ -1,7 +1,5 @@
 <template>
-  <h1>
-    Here is my portfolio
-  </h1>
+  <h1>Here is my portfolio</h1>
 </template>
 
 <script lang="ts">

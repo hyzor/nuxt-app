@@ -1,9 +1,7 @@
 <template>
   <div>
-    <h1>
-      Contact me
-    </h1>
-    <ContactForm/>
+    <h1>Contact me</h1>
+    <ContactForm />
   </div>
 </template>
 

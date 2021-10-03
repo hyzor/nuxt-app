@@ -1,7 +1,5 @@
 <template>
-  <h1>
-    Here are my photos
-  </h1>
+  <h1>Here are my photos</h1>
 </template>
 
 <script lang="ts">
